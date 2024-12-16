@@ -1,2 +1,5 @@
 # complexity_AL
 Research into models that generate organized complexity for technology development
+In complexity science research, simulations of specific systems such as biological, physical, chemical or social systems are usually carried out. 
+In this research we will try to generate organized complexity in the abstract without reference to any particular system. The objective will be to develop models that generate organized complexity without it being explicitly programmed. The simplest models developed so far are cellular automata. These are based on the data structure of the arrays. We investigate how it is possible to generate organized complexity in other data structures such as: stacks, queues, linked lists, trees, heaps, hash tables and hypergraphs.
+Secondly, we investigate whether meta-complexity is possible. This requires us to ask ourselves what would happen if the rules of the automata stopped being fixed and we let them evolve depending on the global state of the model and the historical evolution of the interactions.
